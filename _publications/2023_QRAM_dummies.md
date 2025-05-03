@@ -7,9 +7,9 @@ excerpt: 'Quantum Random Access Memory (QRAM) has the potential to revolutionize
 date: 2023-28-08
 venue: 'Sensors'
 slidesurl: #
-paperurl: https://www.mdpi.com/1424-8220/23/17/7462
+paperurl: 'https://www.mdpi.com/1424-8220/23/17/7462'
 citation: #
-bibtexurl: https://scholar.googleusercontent.com/scholar.bib?q=info:hrMKTMqI2eIJ:scholar.google.com/&output=citation&scisdr=CgKFhUIOEIuy7qKGYCw:AAZF9b8AAAAAaBWAeCzGLWoaoN9fyv6ypOSlyfo&scisig=AAZF9b8AAAAAaBWAeO4Q1xupDbXf11SoWbmCtY4&scisf=4&ct=citation&cd=-1&hl=en
+bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:hrMKTMqI2eIJ:scholar.google.com/&output=citation&scisdr=CgKFhUIOEIuy7qKGYCw:AAZF9b8AAAAAaBWAeCzGLWoaoN9fyv6ypOSlyfo&scisig=AAZF9b8AAAAAaBWAeO4Q1xupDbXf11SoWbmCtY4&scisf=4&ct=citation&cd=-1&hl=en'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
