@@ -26,10 +26,10 @@ author:
   name             : "Avimita Chatterjee"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  # location         : "Earth"
+  employer         : "The Pennsylvania State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "amc8313@psu.edu" 
 
   # Academic websites
   # academia         : # URL
@@ -60,7 +60,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/avimita-chatterjee/"
+  linkedin         : "avimita-chatterjee/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
