@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: #
 excerpt: 'Glycosylation is the process of adding carbohydrates to a protein residue. It is an important part of post-translational modification undergone by protein chains. Over 40 disorders have been linked to improper glycosylation bonds, over 80% of which affect the nervous system. Our aim is to study glycosylation in proteins and to understand the properties that affect this change. A detailed study using support vector machines has given us a computer that accurately predicts 79% percent of the possibility of positive glycan-bond. In this paper we attempt to discuss the entire study and our conclusions. We target to find out which of the physicochemical properties of amino acids are relevant for glycosylation.'
-date: 2015-12-03
+date: 2015-03-12
 venue: 'The 6th IEEE International Conference and Workshop on Computing and Communication'
 slidesurl: #
 paperurl: 'https://ieeexplore.ieee.org/document/7344520'
