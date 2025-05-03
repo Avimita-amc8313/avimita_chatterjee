@@ -7,7 +7,7 @@ excerpt: 'Glycosylation is the process of adding carbohydrates to a protein resi
 date: 2015-12-03
 venue: 'The 6th IEEE International Conference and Workshop on Computing and Communication 2015'
 slidesurl: #
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/document/7344520)'
+paperurl: 'https://ieeexplore.ieee.org/document/7344520'
 bibtexurl: '[http://academicpages.github.io/files/bibtex1.bib](https://scholar.googleusercontent.com/scholar.bib?q=info:oFGk4FJnbrcJ:scholar.google.com/&output=citation&scisdr=ClFwGRsOEIuy7qJ86zo:AFWwaeYAAAAAaBV68zogO33gCIWbxkNB0k_j16I&scisig=AFWwaeYAAAAAaBV6855g-xhcB6eupKhsZNu8kaw&scisf=4&ct=citation&cd=-1&hl=en)'
 
 ---
