@@ -3,7 +3,7 @@ title: "A comprehensive cross-model framework for benchmarking the performance o
 collection: publications
 category: manuscripts
 permalink: #
-excerpt: 'Quantum'
+excerpt: 'Quantum Hamiltonian simulation is one of the most promising applications of quantum computing and forms the basis for many quantum algorithms. Benchmarking them is an important gauge of progress in quantum computing technology. We present a methodology and software framework to evaluate various facets of the performance of gate-based quantum computers on Trotterized quantum Hamiltonian evolution. We propose three distinct modes for benchmarking: comparing simulation on a real device to that on a noiseless classical simulator, comparing simulation on a real device with exact diagonalization results, and using scalable mirror circuit techniques to assess hardware performance in scenarios beyond classical simulation methods. We demonstrate this framework on five Hamiltonian models from the HamLib library: the Fermi and Bose-Hubbard models, the transverse field Ising model, the Heisenberg model, and the Max3SAT problem. Experiments were conducted using Qiskit's Aer simulator, BlueQubit's CPU cluster and GPU simulators, and IBM's quantum hardware. Our framework, extendable to other Hamiltonians, provides comprehensive performance profiles that reveal hardware and algorithmic limitations and measure both fidelity and execution times, identifying crossover points where quantum hardware outperforms CPU/GPU simulators.'
 date: 2025-04-04
 venue: 'IEEE Transactions on Quantum Engineering'
 slidesurl: #
