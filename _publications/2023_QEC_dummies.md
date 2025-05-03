@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: #
 excerpt: ' In this paper, we aim to provide a comprehensive review of the historical context, current state, and future prospects of Quantum Error Correction, tailored to cater to computer scientists with limited familiarity with quantum physics and its associated mathematical concepts.'
-date: 2023-17-09
+date: 2023-09-17
 venue: '2023 IEEE International Conference on Quantum Computing and Engineering (QCE)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10313604'
 citation: #
