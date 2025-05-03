@@ -2,7 +2,7 @@
 title: "Quantum Error Correction for Dummies"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: #
 excerpt: ' In this paper, we aim to provide a comprehensive review of the historical context, current state, and future prospects of Quantum Error Correction, tailored to cater to computer scientists with limited familiarity with quantum physics and its associated mathematical concepts.'
 date: 2023-09-17
 venue: '2023 IEEE International Conference on Quantum Computing and Engineering (QCE)'
