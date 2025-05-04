@@ -27,6 +27,12 @@ $(document).ready(function () {
   };
 
   setTheme();
+   // Disable the theme toggle icon completely
+   $('#theme-toggle').off('click').on('click', function (e) {
+     e.preventDefault();
+     e.stopPropagation();
+     return false;
+   });
 
   // if user hasn't chosen a theme, follow OS changes
   // window
@@ -38,12 +44,12 @@ $(document).ready(function () {
   //   });
 
   // Toggle the theme manually
-  var toggleTheme = function () {
-    const current_theme = $("html").attr("data-theme");
-    const new_theme = current_theme === "dark" ? "light" : "dark";
-    localStorage.setItem("theme", new_theme);
-    setTheme(new_theme);
-  };
+  // var toggleTheme = function () {
+  //   const current_theme = $("html").attr("data-theme");
+  //   const new_theme = current_theme === "dark" ? "light" : "dark";
+  //   localStorage.setItem("theme", new_theme);
+  //   setTheme(new_theme);
+  // };
 
   // $('#theme-toggle').on('click', toggleTheme);
 
