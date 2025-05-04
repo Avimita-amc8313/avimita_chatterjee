@@ -29,13 +29,13 @@ $(document).ready(function () {
   setTheme();
 
   // if user hasn't chosen a theme, follow OS changes
-  window
-    .matchMedia('(prefers-color-scheme: dark)')
-    .addEventListener("change", (e) => {
-      if (!localStorage.getItem("theme")) {
-        setTheme(e.matches ? "dark" : "light");
-      }
-    });
+  // window
+  //   .matchMedia('(prefers-color-scheme: dark)')
+  //   .addEventListener("change", (e) => {
+  //     if (!localStorage.getItem("theme")) {
+  //       setTheme(e.matches ? "dark" : "light");
+  //     }
+  //   });
 
   // Toggle the theme manually
   var toggleTheme = function () {
