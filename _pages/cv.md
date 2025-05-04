@@ -9,38 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Clink here to view my full Résumé: [link](https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/view?usp=drive_link)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science & Engineering, The Pennsylvania State University, 2025 (expected)
+* B.tech. in Computer Science & Engineering, Institute of Engineering and Management, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2021 - Present: Research Assistant
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2024: QED-C Quantum Research Intern at Stanford Research Institute (SRI), International
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr - Dec 2020: Quality Assurance Lead & SW Developer at I2I Telesolutions and TeleMedicine
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -59,6 +43,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards and Contribution
 ======
-* Currently signed in to 43 different slack teams
+* NSF,Student Travel Grant to attend the IEEE Quantum Week 2024 or QCE24 for thea mount of US$1,250
+* Penn State, Nominated for Outstanding Research Assistant for our Computer Science Department
+* Contributor, collaborator and memeber of Girls in Quantum
+* Award of Appreciation for Completion of QMS & ISO Certification Audit from I2I Telesolutions
