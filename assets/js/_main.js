@@ -4,27 +4,32 @@
 
 $(document).ready(function () {
   // detect OS/browser preference
-  const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
-    ? 'dark'
-    : 'light';
+  // const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
+  //   ? 'dark'
+  //   : 'light';
 
   // Set the theme on page load or when explicitly called
-  var setTheme = function (theme) {
-    // const use_theme =
-    //   theme ||
-    //   localStorage.getItem("theme") ||
-    //   $("html").attr("data-theme") ||
-    //   browserPref;
-     const use_theme = "light";
+  // var setTheme = function (theme) {
+  //   // const use_theme =
+  //   //   theme ||
+  //   //   localStorage.getItem("theme") ||
+  //   //   $("html").attr("data-theme") ||
+  //   //   browserPref;
+  //    const use_theme = "light";
 
-    if (use_theme === "dark") {
-      $("html").attr("data-theme", "dark");
-      $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
-    } else if (use_theme === "light") {
-      $("html").removeAttr("data-theme");
-      $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
-    }
-  };
+  //   if (use_theme === "dark") {
+  //     $("html").attr("data-theme", "dark");
+  //     $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
+  //   } else if (use_theme === "light") {
+  //     $("html").removeAttr("data-theme");
+  //     $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
+  //   }
+  // };
+   var setTheme = function () {
+     // Always use light theme
+     $("html").removeAttr("data-theme");
+     $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
+   };
 
   setTheme();
    // Disable the theme toggle icon completely
