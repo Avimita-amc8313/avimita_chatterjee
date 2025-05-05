@@ -38,9 +38,18 @@
       {{ title }}
     </h2> -->
 
-    <h2 class="archive__item-title" itemprop="headline">
+<!--     <h2 class="archive__item-title" itemprop="headline">
       {% if post.icon %}
         <img src="/avimita_chatterjee/images/{{ post.icon }}" alt="icon" style="height: 1em; width: auto; margin-right: 0.5em; vertical-align: text-bottom; border-radius: 4px;">
+      {% endif %}
+      {{ title }}
+    </h2> -->
+
+    <h2 class="archive__item-title" itemprop="headline" style="display: flex; align-items: center; gap: 0.75em;">
+      {% if post.icon %}
+        <img src="/avimita_chatterjee/images/{{ post.icon }}"
+             alt="icon"
+             style="height: 2.5em; width: auto; border-radius: 6px; flex-shrink: 0;">
       {% endif %}
       {{ title }}
     </h2>
