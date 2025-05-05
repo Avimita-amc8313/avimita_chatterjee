@@ -7,6 +7,7 @@ author_profile: true
 
 Welcome to the News section! This is where you can post updates or announcements.
 
+* May 2025: <i class="fas fa-book-open"></i> Started working on my first book: "Conversations in a Quantum Café"
 * Apr 2025:
   * <i class="fas fa-scroll"></i> "Q-Pandora Unboxed: Characterizing Resilience of Quantum Error Correction Codes Under Biased Noise" gets published in Applied Sciences
   * <i class="fas fa-microphone"></i> Podcast with Genesis of Tomorrow
