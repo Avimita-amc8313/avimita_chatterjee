@@ -10,7 +10,7 @@ Welcome to the News section! This is where you can post updates or announcements
 * May 2025: 
   * <i class="fas fa-book"></i> Began working on my first book, “Conversations in a Quantum Café”
     
-Apr 2025:
+* Apr 2025:
   * <i class="fas fa-book-open"></i> "Q-Pandora Unboxed: Characterizing Resilience of Quantum Error Correction Codes Under Biased Noise" gets published in Applied Sciences
   * <i class="fas fa-microphone"></i> Featured in a podcast episode of Genesis of Tomorrow with Bhavyadhirr V. Bharadwaj
   * <i class="fas fa-microphone"></i> Delivered a guest lecture titled “Quantum Error Correction and Lattice Surgery for Large-Scale Quantum Computing” in Prof. Zhiding Liang’s course at Rensselaer Polytechnic Institute
