@@ -1,6 +1,6 @@
 ---
 title: "Conversations in a Quantum Café: A Curious Journey Through Quantum Computing for Everyone"
-# icon: book_cafe.png
+icon: book_cafe.jpeg
 collection: publications
 category: books
 permalink: #
