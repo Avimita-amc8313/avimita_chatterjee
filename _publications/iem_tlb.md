@@ -4,7 +4,7 @@ title: "Formulating Support for Superpages to reduce the number of TLB Faults in
 collection: publications
 category: conferences
 permalink: #
-excerpt: 'This is the era of Big Data. We are surrounded by the technologies which targets and aim at processing huge amount of data around us. RAM size has been increased to accommodate and process these huge data for better performance. But there is a bottle neck of TLB tables which cannot accommodate the resulting large set of page table entries PTE's. But this problem could be solved by using the large page size with a smaller number of TLB entries. These are called superpages. This project aims at implementing the algorithm with which the management of these superpages done efficiently so that RAM are fully and efficiently used for modern Large data computing.'
+excerpt: 'This is the era of Big Data. We are surrounded by the technologies which targets and aim at processing huge amount of data around us. RAM size has been increased to accommodate and process these huge data for better performance. But there is a bottle neck of TLB tables which cannot accommodate the resulting large set of page table entries PTEs. But this problem could be solved by using the large page size with a smaller number of TLB entries. These are called superpages. This project aims at implementing the algorithm with which the management of these superpages done efficiently so that RAM are fully and efficiently used for modern Large data computing.'
 date: 2020-02-13
 venue: '2019 IEEE 10th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8993035'
