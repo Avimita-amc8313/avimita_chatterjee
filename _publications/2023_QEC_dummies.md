@@ -1,5 +1,6 @@
 ---
 title: "Quantum Error Correction for Dummies"
+icon: quantum_icon.png
 collection: publications
 category: conferences
 permalink: #
