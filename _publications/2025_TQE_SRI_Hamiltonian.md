@@ -1,5 +1,6 @@
 ---
 title: "A comprehensive cross-model framework for benchmarking the performance of quantum hamiltonian simulations"
+icon: qec_dummies.png
 collection: publications
 category: manuscripts
 permalink: #
