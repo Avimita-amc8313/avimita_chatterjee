@@ -153,10 +153,10 @@ $(document).ready(function () {
   });
 
      // Automatically open all external links in a new tab
-  $('a[href^="http"]').each(function () {
-    if (!this.href.includes(window.location.hostname)) {
-      $(this).attr('target', '_blank').attr('rel', 'noopener noreferrer');
-    }
-  });
+   $('a[href^="http"]').each(function () {
+     if (this.hostname !== window.location.hostname) {
+       $(this).attr('target', '_blank').attr('rel', 'noopener noreferrer');
+     }
+   });
    
 });
