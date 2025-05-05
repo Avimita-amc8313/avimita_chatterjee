@@ -7,11 +7,12 @@ author_profile: true
 
 Welcome to the News section! This is where you can post updates or announcements.
 
-* May 2025: <i class="fas fa-book"></i> Started working on my first book: "Conversations in a Quantum Café"
-* Apr 2025:
+May 2025: 
+* <i class="fas fa-book"></i> Started working on my first book: "Conversations in a Quantum Café"
+Apr 2025:
   * <i class="fas fa-book-open"></i> "Q-Pandora Unboxed: Characterizing Resilience of Quantum Error Correction Codes Under Biased Noise" gets published in Applied Sciences
   * <i class="fas fa-microphone"></i> Podcast with Genesis of Tomorrow
-  * <i class="fas fa-microphone"></i> Gave a guest lecture titled “Quantum Error Correction and Lattice Surgery for Large Scale Quantum Computing” at Rensselaer Polytechnic Institute with Prof. Zhiding Liang
+  * <i class="fas fa-microphone"></i> Delivered a guest lecture titled “Quantum Error Correction and Lattice Surgery for Large Scale Quantum Computing” at Rensselaer Polytechnic Institute with Prof. Zhiding Liang
   * <i class="fas fa-book-open"></i> "A comprehensive cross-model framework for benchmarking the performance of quantum hamiltonian simulations" gets published at the IEEE Transactions on Quantum Engineering (TQE)
 * Mar 2025: <i class="fas fa-microphone"></i> Gave a talk at the prestigious American Physics Society (APS)-Global Physics Summit 2025 on the work on Quantum Hamiltonian Simulations
 * Feb 2025: <i class="fas fa-book-open"></i> "Lattice Surgery for Dummies" accpted for publication in Sensors Journal
