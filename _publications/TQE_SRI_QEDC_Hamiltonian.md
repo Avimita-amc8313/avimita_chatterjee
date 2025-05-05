@@ -6,7 +6,7 @@ category: manuscripts
 permalink: #
 excerpt: 'Quantum Hamiltonian simulation is one of the most promising applications of quantum computing and forms the basis for many quantum algorithms. Benchmarking them is an important gauge of progress in quantum computing technology. We present a methodology and software framework to evaluate various facets of the performance of gate-based quantum computers on Trotterized quantum Hamiltonian evolution.'
 date: 2025-04-04
-venue: 'IEEE Transactions on Quantum Engineering'
+venue: 'IEEE Transactions on Quantum Engineering (Volume: 6)'
 slidesurl: #
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10949677'
 citation: #
