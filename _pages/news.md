@@ -8,7 +8,7 @@ author_profile: true
 Welcome to the News section! This is where you can post updates or announcements.
 
 * Apr 2025:
-  * <i class="fas fa-book"></i> "Q-Pandora Unboxed: Characterizing Resilience of Quantum Error Correction Codes Under Biased Noise" gets published in Applied Sciences
+  * <i class="fas fa-scroll"></i> "Q-Pandora Unboxed: Characterizing Resilience of Quantum Error Correction Codes Under Biased Noise" gets published in Applied Sciences
   * <i class="fas fa-microphone"></i> Podcast with Genesis of Tomorrow
   * <i class="fas fa-microphone"></i> Gave a guest lecture titled “Quantum Error Correction and Lattice Surgery for Large Scale Quantum Computing” at Rensselaer Polytechnic Institute with Prof. Zhiding Liang
   * "A comprehensive cross-model framework for benchmarking the performance of quantum hamiltonian simulations" gets published at the IEEE Transactions on Quantum Engineering (TQE)
