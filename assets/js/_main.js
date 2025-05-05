@@ -153,11 +153,16 @@ $(document).ready(function () {
   });
 
      // Automatically open all external links in a new tab
-      $('a[href^="http"]').each(function () {
-     if (!this.href.includes(location.hostname)) {
-       console.log("Updating external link:", this.href);  // ← log the link
-       $(this).attr('target', '_blank').attr('rel', 'noopener noreferrer');
-     }
-   });
+     console.log("Running external link modifier...");
+
+      $('a[href]').each(function () {
+        const href = $(this).attr('href');
+        const isExternal = href.startsWith('http') && !href.includes(location.hostname);
+      
+        if (isExternal) {
+          console.log('Modifying external link:', href); // <-- this should appear in console
+          $(this).attr('target', '_blank').attr('rel', 'noopener noreferrer');
+        }
+      });
    
 });
