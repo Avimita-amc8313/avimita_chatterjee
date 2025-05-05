@@ -152,18 +152,11 @@ $(document).ready(function () {
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
-    // Automatically open all external links in new tab
-  setTimeout(function () {
-  $('a[href]').each(function () {
-    const href = $(this).attr('href');
-    const isExternal =
-      href.startsWith('http') &&
-      !href.includes(window.location.hostname);
-
-    if (isExternal) {
+     // Automatically open all external links in a new tab
+  $('a[href^="http"]').each(function () {
+    if (!this.href.includes(window.location.hostname)) {
       $(this).attr('target', '_blank').attr('rel', 'noopener noreferrer');
     }
   });
-}, 0);
    
 });
