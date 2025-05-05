@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### You can view my complete Résumé [here.](https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/view?usp=drive_link)
-<br><br>
+<br>
 
 Education
 ======
