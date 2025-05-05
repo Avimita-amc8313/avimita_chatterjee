@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Clink here to view my full Résumé: [link](https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/view?usp=drive_link)
+### Clink here to view my full Résumé: [link](https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/view?usp=drive_link)
 
 Education
 ======
