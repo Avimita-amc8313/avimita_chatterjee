@@ -3,6 +3,7 @@
    ========================================================================== */
 
 $(document).ready(function () {
+   console.log("jQuery is working");
   // detect OS/browser preference
   // const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
   //   ? 'dark'
