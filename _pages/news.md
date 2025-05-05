@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-Welcome to the News section! This is where you can post updates or announcements.
+Here’s where I share the latest happenings: from research updates and new publications to talks, conferences, and a few fun milestones along the way.
 
 **May 2025:**
   * <i class="fas fa-book"></i> Began working on my first book, “Conversations in a Quantum Café”
