@@ -152,4 +152,12 @@ $(document).ready(function () {
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+     // Make all external links open in a new tab
+  $('a[href^="http"]').each(function () {
+    const linkHost = new URL(this.href).hostname;
+    if (linkHost !== window.location.hostname) {
+      $(this).attr('target', '_blank').attr('rel', 'noopener noreferrer');
+    }
+  });
+
 });
