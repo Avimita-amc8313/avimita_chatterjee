@@ -40,9 +40,7 @@
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.icon %}
-<!--         <img src="{{ '/images/' | append: post.icon | relative_url }}" alt="icon" style="height: 1.2em; vertical-align: middle; margin-right: 6px;"> -->
-      <img src="/avimita_chatterjee/images/{{ post.icon }}" alt="icon" style="height: 1.2em; vertical-align: middle; margin-right: 6px;"> 
-      <p>ICON: {{ post.icon }}</p>
+        <img src="/avimita_chatterjee/images/{{ post.icon }}" alt="icon" style="height: 1em; width: auto; margin-right: 0.5em; vertical-align: text-bottom; border-radius: 4px;">
       {% endif %}
       {{ title }}
     </h2>
