@@ -153,6 +153,7 @@ $(document).ready(function () {
   });
 
     // Automatically open all external links in new tab
+  setTimeout(function () {
   $('a[href]').each(function () {
     const href = $(this).attr('href');
     const isExternal =
@@ -163,5 +164,6 @@ $(document).ready(function () {
       $(this).attr('target', '_blank').attr('rel', 'noopener noreferrer');
     }
   });
+}, 0);
    
 });
