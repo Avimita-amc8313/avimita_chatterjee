@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my corner of the web!"
+title: "Welcome to Avimita's corner of the web!"
 author_profile: true
 redirect_from: 
   - /about/
