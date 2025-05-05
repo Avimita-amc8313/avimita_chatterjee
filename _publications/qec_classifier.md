@@ -1,6 +1,6 @@
 ---
 title: "Q-Embroidery: A Study on Weaving Quantum Error Correction into the Fabric of Quantum Classifiers"
-icon: pandora_characterization.png
+icon: qec_classifier.png
 collection: publications
 category: conferences
 permalink: #
