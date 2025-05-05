@@ -1,6 +1,6 @@
 ---
 title: "Quantum Random Access Memory for Dummies"
-icon: qec_dummies.png
+icon: qram_dummies.png
 collection: publications
 category: manuscripts
 permalink: #
