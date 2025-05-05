@@ -46,7 +46,7 @@ Embedded Systems (VLSID) 2025
   * <i class="fas fa-award"></i> Had the privilege of serving as lead author on the Quantum Hamiltonian simulations research conducted during the internship
     
 **Jul 2024:**
-  * <i class="fas fa-book-open"></i> "Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall?" accepted for publication in EEE Quantum Week — the IEEE International Conference on Quantum Computing and Engineering (QCE) 2024
+  * <i class="fas fa-book-open"></i> "Magic Mirror on the Wall, How to Benchmark Quantum Error Correction Codes, Overall?" accepted for publication in IEEE Quantum Week — the IEEE International Conference on Quantum Computing and Engineering (QCE) 2024
     
 **Apr 2024:**
   * <i class="fas fa-book-open"></i> "Q-Embroidery: A Study of Weaving Quantum Error Correction in to the Fabric of Quantum Classifiers" got accepted for publication in the ACM Proceedings of the Great Lakes Symposium on VLSI (GLSVLSI) 2024
