@@ -4,7 +4,7 @@ icon: magic_mirror.png
 collection: publications
 category: conferences
 permalink: #
-excerpt: 'Despite significant improvements in the field of QECCs, a unified methodology for evaluating them consistently has remained elusive. This paper addresses this gap by introducing a set of eight universal parameters and evaluating nine prominent QECCs for these parameters. We establish a universal benchmarking approach and highlight the complexity of quantum error correction, indicating that the choice of a QECC depends on each scenario\'s unique requirements and limitations. Furthermore, we develop a systematic strategy for selecting QECCs that adapts to the specific requirements of a given scenario, facilitating a tailored approach to quantum error correction.'
+excerpt: 'Despite significant improvements in the field of QECCs, a unified methodology for evaluating them consistently has remained elusive. This paper addresses this gap by introducing a set of eight universal parameters and evaluating nine prominent QECCs for these parameters. We establish a universal benchmarking approach and highlight the complexity of quantum error correction, indicating that the choice of a QECC depends on each scenario unique requirements and limitations. Furthermore, we develop a systematic strategy for selecting QECCs that adapts to the specific requirements of a given scenario, facilitating a tailored approach to quantum error correction.'
 date: 2025-01-10
 venue: 'IEEE Quantum Week, 2024 IEEE International Conference on Quantum Computing and Engineering (QCE)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10821356'
