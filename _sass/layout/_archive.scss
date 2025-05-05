@@ -79,6 +79,11 @@
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
+.archive__item-title:hover {
+  text-decoration: none;
+  cursor: default;
+}
+
   .archive__item-title {
     text-decoration: underline;
   }
