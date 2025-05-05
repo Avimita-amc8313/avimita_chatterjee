@@ -42,21 +42,10 @@
       {% if post.icon %}
         <img src="/avimita_chatterjee/images/publication/{{ post.icon }}"
              alt="icon"
-             style="height: 5em; width: auto; border-radius: 6px; flex-shrink: 0;">
+             style="height: 7em; width: auto; border-radius: 6px; flex-shrink: 0;">
       {% endif %}
       {{ title }}
     </h2>
-
-<!--     <div style="display: flex; align-items: flex-start; margin-bottom: 0.5em;">
-      {% if post.icon %}
-        <img src="/avimita_chatterjee/images/{{ post.icon }}"
-             alt="icon"
-             style="height: 4em; width: auto; border-radius: 8px; margin-right: 1em; margin-top: 0.2em;">
-      {% endif %}
-      <h2 class="archive__item-title" itemprop="headline" style="margin: 0;">
-        {{ title }}
-      </h2>
-    </div> -->
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
