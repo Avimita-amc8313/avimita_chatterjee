@@ -4,7 +4,7 @@ title: "A novel approach to energy efficient low cost routing in MANET by reduct
 collection: publications
 category: conferences
 permalink: #
-excerpt: 'Mobile ad-hoc networks (MANET) are infrastructure-less networks in which groups of nodes collaborate by forwarding packets such that each node can function without a common access point. The mobile nature of MANETs result in degradation of battery life and efficient routing is, thus, necessary for reducing energy consumption. In this paper we modify the existing AODV protocol to decrease energy required during transmission by reduction of packet size and maintain an `Energy/Distance' ratio as a metric for tracing the best route. By combining these features we reduce required transmission power, as well as increase battery life.'
+excerpt: 'Mobile ad-hoc networks (MANET) are infrastructure-less networks in which groups of nodes collaborate by forwarding packets such that each node can function without a common access point. The mobile nature of MANETs result in degradation of battery life and efficient routing is, thus, necessary for reducing energy consumption. In this paper we modify the existing AODV protocol to decrease energy required during transmission by reduction of packet size and maintain an Energy/Distance ratio as a metric for tracing the best route. By combining these features we reduce required transmission power, as well as increase battery life.'
 date: 2018-02-26
 venue: '2018 IEEE 8th Annual Computing and Communication Workshop and Conference (CCWC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8301743'
