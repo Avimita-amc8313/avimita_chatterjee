@@ -7,10 +7,11 @@ author_profile: true
 
 Welcome to the News section! This is where you can post updates or announcements.
 
-* May 2025: 
+* **May 2025:**
   * <i class="fas fa-book"></i> Began working on my first book, “Conversations in a Quantum Café”
     
 * Apr 2025:
+  * <i class="fas fa-microphone"></i> Delivered a presentation on my paper published at ISQED 2025 in San Francisco, California
   * <i class="fas fa-book-open"></i> "Q-Pandora Unboxed: Characterizing Resilience of Quantum Error Correction Codes Under Biased Noise" gets published in Applied Sciences
   * <i class="fas fa-microphone"></i> Featured in a podcast episode of Genesis of Tomorrow with Bhavyadhirr V. Bharadwaj
   * <i class="fas fa-microphone"></i> Delivered a guest lecture titled “Quantum Error Correction and Lattice Surgery for Large-Scale Quantum Computing” in Prof. Zhiding Liang’s course at Rensselaer Polytechnic Institute
@@ -35,6 +36,7 @@ Welcome to the News section! This is where you can post updates or announcements
   * <i class="fas fa-microphone"></i> Gave a talk titled “Quantum Error Correction for Dummies” at the Quantum Computing Working Seminar hosted by Penn State’s Department of Mathematics
     
 * Sep 2024:
+  * <i class="fas fa-microphone"></i> Delivered a presentation on my paper published at IEEE Quantum Week — the IEEE International Conference on Quantum Computing and Engineering (QCE) 2024 in Montreal, Québec, Canada
   * <i class="fas fa-award"></i> Awarded the NSF Student Travel Grant to attend IEEE Quantum Week 2024 (QCE24)
     
 * Aug 2024:
@@ -59,13 +61,14 @@ Welcome to the News section! This is where you can post updates or announcements
   * <i class="fas fa-book-open"></i> "First Order Survey of Quantum Supply Dynamics and Threat Landscapes" accepted in ACM Hardware and Architectural Support for Security and Privacy (HASP) 2023
     
 * Sep 2023:
+  * <i class="fas fa-microphone"></i> Delivered a presentation on my paper published at IEEE Quantum Week — the IEEE International Conference on Quantum Computing and Engineering (QCE) 2023 in Bellevue, Washington
   * <i class="fas fa-people-group"></i> Joined Girls in Quantum as a member, collaborator, and contributor
     
 * Aug 2023:
   * <i class="fas fa-book-open"></i> "Quantum Random Access for Dummies" publised in Sensor journal
     
 * Jul 2023:
-  * <i class="fas fa-book-open"></i> "Quantum Error Correction for Dummies" accepted for publication in EEE Quantum Week — the IEEE International Conference on Quantum Computing and Engineering (QCE) 2023
+  * <i class="fas fa-book-open"></i> "Quantum Error Correction for Dummies" accepted for publication in IEEE Quantum Week — the IEEE International Conference on Quantum Computing and Engineering (QCE) 2023
   
 * Aug 2022:
   * <i class="fas fa-people-group"></i> Had a lot of fun being the New Grads’ Orientation Leader Fall 2022 for the CSE Department
