@@ -8,12 +8,12 @@ author_profile: true
 Here’s where I share the latest happenings: from research updates and new publications to talks, conferences, and a few fun milestones along the way.
 
 **May 2025:**
+  * <i class="fas fa-microphone"></i> Featured in episode 38 of the Genesis of Tomorrow podcast with Bhavyadhirr V. Bharadwaj in a conversation about Quantum Error Correction, Scientific Writing & Research, the PhD Journey, and much more. ([Youtube](https://www.youtube.com/watch?v=OKRcqTDhUn8&ab_channel=GenesisofTomorrow) or [Spotify](https://open.spotify.com/episode/1VerV8ezzKDT9BHCfkSPJZ?si=ez1sfVqxTvWojTIK6CsNbQ&nd=1&dlsi=a1c78248a2e14f7b))
   * <i class="fas fa-book"></i> Began working on my first book, “Conversations in a Quantum Café”
     
  **Apr 2025:**
   * <i class="fas fa-microphone"></i> Delivered a presentation on my paper published at ISQED 2025 in San Francisco, California
   * <i class="fas fa-book-open"></i> "Q-Pandora Unboxed: Characterizing Resilience of Quantum Error Correction Codes Under Biased Noise" gets published in Applied Sciences
-  * <i class="fas fa-microphone"></i> Featured in a podcast episode of Genesis of Tomorrow with Bhavyadhirr V. Bharadwaj
   * <i class="fas fa-microphone"></i> Delivered a guest lecture titled “Quantum Error Correction and Lattice Surgery for Large-Scale Quantum Computing” in Prof. Zhiding Liang’s course at Rensselaer Polytechnic Institute
   * <i class="fas fa-book-open"></i> "A comprehensive cross-model framework for benchmarking the performance of quantum hamiltonian simulations" gets published at the IEEE Transactions on Quantum Engineering (TQE)
     
