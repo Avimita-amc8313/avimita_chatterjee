@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Avimita Chatterjee, and I am a final-year Ph.D. candidate in Computer Science and Engineering at The Pennsylvania State University. My research centers on Quantum Computing, with a specific focus on Quantum Error Correction (QEC). I have the privilege of working under the guidance of Professor Swaroop Ghosh, exploring how to build more resilient and scalable quantum systems.
 
-My journey into QEC began with a deep curiosity about quantum technologies and a strong desire to make their potential accessible to more people. As a computer scientist entering a field traditionally dominated by physics and mathematics, I quickly realized the value of diverse perspectives. My goal is to break down the barriers around QEC and make it more approachable for researchers from a variety of backgrounds.
+My journey into QEC began with a deep curiosity about quantum technologies and a strong desire to make their potential accessible to more people. As a computer scientist entering a field traditionally dominated by physics and mathematics, I quickly realized the value of diverse perspectives. My goal is to break down the barriers around Quantum Computing and make it more approachable for researchers from a variety of backgrounds.
 
 Explore the key sections of my academic portfolio:
 * [News](https://avimita-amc8313.github.io/avimita_chatterjee/news/) – Updates and announcements on research, events, and milestones
