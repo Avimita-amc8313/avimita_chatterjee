@@ -11,6 +11,12 @@ My name is Avimita Chatterjee, and I am a final-year Ph.D. candidate in Computer
 
 My journey into QEC began with a deep curiosity about quantum technologies and a strong desire to make their potential accessible to more people. As a computer scientist entering a field traditionally dominated by physics and mathematics, I quickly realized the value of diverse perspectives. My goal is to break down the barriers around QEC and make it more approachable for researchers from a variety of backgrounds.
 
+Explore the key sections of my academic portfolio:
+* [News](https://avimita-amc8313.github.io/avimita_chatterjee/news/) – Updates and announcements on research, events, and milestones
+* [Publications](https://avimita-amc8313.github.io/avimita_chatterjee/publications/) – Peer-reviewed papers, manuscripts, and selected preprints
+* [Talks](https://avimita-amc8313.github.io/avimita_chatterjee/talks/) – Presentations and invited talks at conferences, workshops, and seminars
+* [Teaching](https://avimita-amc8313.github.io/avimita_chatterjee/teaching/) – Courses and academic mentoring
+
 Research in Quantum Error Correction
 ======
 Quantum Error Correction is one of the most essential yet complex components of quantum computing. It addresses the fragile nature of quantum information and is crucial for building fault-tolerant quantum systems. My research is focused on optimizing the use of space and time resources in QEC, reducing the overhead associated with error correction protocols, and designing scalable, efficient solutions.
