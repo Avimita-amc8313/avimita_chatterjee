@@ -4,7 +4,7 @@ collection: talks
 type: "Podcast"
 permalink: #
 venue: "Genesis of Tomorrow"
-date: 2025-04-19
+date: 2025-05-06
 location: "Youtube and Spotify"
 ---
 
