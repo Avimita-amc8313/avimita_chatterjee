@@ -1,5 +1,5 @@
 ---
-title: "Quantum Computing"
+title: "QEC, Noise, Academia, The PhD Journey, Writing Papers, Research, & More"
 collection: talks
 type: "Podcast"
 permalink: #
@@ -9,4 +9,4 @@ location: "Youtube and Spotify"
 ---
 
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+I strongly recommend listening to this to anybody who is considering doing a PhD or is already going through that journey. Listen on [YouTube](https://www.youtube.com/watch?v=OKRcqTDhUn8&ab_channel=GenesisofTomorrow) or [Spotify](https://open.spotify.com/episode/1VerV8ezzKDT9BHCfkSPJZ?si=XlXsYIvlQ9ScPTIKzCQuQw&nd=1&dlsi=bbcd2f03861e4032).
