@@ -8,7 +8,7 @@ author_profile: true
 
 * ## Genesis of Tomorrow Podcast: Research Interview
 
-![Genesis Thumbnail](/images/genesis-thumbnail.png)
+![Genesis Thumbnail](/avimita_chatterjee/images/genesis-thumbnail.png)
 
 The conversation is about Quantum Error Correction, Scientific Writing & Research, the PhD Journey, and much more, hosted by *B. Bharadwaj*.
 
