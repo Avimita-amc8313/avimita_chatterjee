@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "light"
-title                    : "Avimita Chatterjee | PhD Candidate in Quantum Computing at Penn State"
+title                    : "Avimita Chatterjee"
 title_separator          : "-"
 name                     : &name "Avimita Chaterjee"
 description              : &description "Avimita Chatterjee | PhD Candidate at Penn State | Quantum Computing | Quantum Error Correction | Quantum Benchmarking | Quantum Algorithms | Quantum Application | Publications and Research"
