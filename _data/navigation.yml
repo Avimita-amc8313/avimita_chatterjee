@@ -18,7 +18,7 @@ main:
     url: /talks/    
     
   - title: "Media"
-  url: /media/
+    url: /media/
 
   - title: "Teaching"
     url: /teaching/    
