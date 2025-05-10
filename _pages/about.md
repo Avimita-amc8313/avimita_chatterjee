@@ -12,11 +12,11 @@ My name is Avimita Chatterjee, and I am a final-year Ph.D. candidate in Computer
 My journey into QEC began with a deep curiosity about quantum technologies and a strong desire to make their potential accessible to more people. As a computer scientist entering a field traditionally dominated by physics and mathematics, I quickly realized the value of diverse perspectives. My goal is to break down the barriers around Quantum Computing and make it more approachable for researchers from a variety of backgrounds.
 
 Explore the key sections of my academic portfolio:
-* [News](https://avimita-amc8313.github.io/avimita_chatterjee/news/) – Updates and announcements on research, events, and milestones
-* [Publications](https://avimita-amc8313.github.io/avimita_chatterjee/publications/) – Peer-reviewed papers, manuscripts, and selected preprints
-* [Talks](https://avimita-amc8313.github.io/avimita_chatterjee/talks/) – Presentations and invited talks at conferences, workshops, and seminars
-* [Media](https://avimita-amc8313.github.io/avimita_chatterjee/media/) - Recordings of interviews, podcasts, and public talks
-* [Teaching](https://avimita-amc8313.github.io/avimita_chatterjee/teaching/) – Courses and academic mentoring
+* <i class="fas fa-newspaper"></i> [News](https://avimita-amc8313.github.io/avimita_chatterjee/news/) – Updates and announcements on research, events, and milestones
+* <i class="fas fa-book-open"></i> [Publications](https://avimita-amc8313.github.io/avimita_chatterjee/publications/) – Peer-reviewed papers, manuscripts, and selected preprints
+* <i class="fas fa-microphone"></i> [Talks](https://avimita-amc8313.github.io/avimita_chatterjee/talks/) – Presentations and invited talks at conferences, workshops, and seminars
+* <i class="fas fa-video"></i> [Media](https://avimita-amc8313.github.io/avimita_chatterjee/media/) - Recordings of interviews, podcasts, and public talks
+* <i class="fas fa-chalkboard-teacher"></i> [Teaching](https://avimita-amc8313.github.io/avimita_chatterjee/teaching/) – Courses and academic mentoring
 
 Research in Quantum Error Correction
 ======
