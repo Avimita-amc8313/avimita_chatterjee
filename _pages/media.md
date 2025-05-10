@@ -1,19 +1,15 @@
 ---
 layout: archive
-title: "Media"
+title: "Media Appearences"
 permalink: /media/
 author_profile: true
 ---
 
-Welcome to my Media page!  
-Here are some interviews, talks, and appearances.
 
-### Genesis of Tomorrow: Research Interview
+* ## Genesis of Tomorrow Podcast: Research Interview
 
 ![Genesis Thumbnail](/images/genesis-thumbnail.png)
 
-An in-depth conversation on quantum computing and my research journey, hosted by *Genesis of Tomorrow*.
+The conversation is about Quantum Error Correction, Scientific Writing & Research, the PhD Journey, and much more, hosted by *B. Bharadwaj*.
 
-**Available on:**
-- [YouTube](https://www.youtube.com/watch?v=OKRcqTDhUn8)
-- [Spotify](https://open.spotify.com/episode/1VerV8ezzKDT9BHCfkSPJZ)
+**Available on:** - [YouTube](https://www.youtube.com/watch?v=OKRcqTDhUn8) or [Spotify](https://open.spotify.com/episode/1VerV8ezzKDT9BHCfkSPJZ)
