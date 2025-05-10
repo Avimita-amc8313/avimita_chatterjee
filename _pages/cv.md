@@ -11,6 +11,6 @@ redirect_from:
 
 👉 📥 [Click here to download the résumé (PDF)](https://drive.google.com/uc?export=download&id=13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo)
 
-<iframe src="https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/preview" width="90%" height="1000px" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/preview" width="90%" height="1500px" allow="autoplay"></iframe>
 
 
