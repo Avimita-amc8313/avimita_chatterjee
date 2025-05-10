@@ -9,44 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/preview" width="100%" height="800px" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/preview" width="80%" height="500px" allow="autoplay"></iframe>
 
-
-Education
-======
-* Ph.D in Computer Science & Engineering, The Pennsylvania State University, 2025 (expected)
-* B.tech. in Computer Science & Engineering, Institute of Engineering and Management, 2018
-
-Work experience
-======
-* Spring 2021 - Present: Research Assistant
-
-* Summer 2024: QED-C Quantum Research Intern at Stanford Research Institute (SRI), International
-
-* Apr - Dec 2020: Quality Assurance Lead & SW Developer at I2I Telesolutions and TeleMedicine
-  
-  
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Awards and Contribution
-======
-* NSF,Student Travel Grant to attend the IEEE Quantum Week 2024 or QCE24 for thea mount of US$1,250
-* Penn State, Nominated for Outstanding Research Assistant for our Computer Science Department
-* Contributor, collaborator and memeber of Girls in Quantum
-* Award of Appreciation for Completion of QMS & ISO Certification Audit from I2I Telesolutions
+👉 📥 [Click here to download the résumé (PDF)](https://drive.google.com/uc?export=download&id=13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo)
