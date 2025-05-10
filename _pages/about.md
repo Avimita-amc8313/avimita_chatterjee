@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my corner of the web!"
+title: "Welcome to Avimita's corner of the web!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,6 +15,7 @@ Explore the key sections of my academic portfolio:
 * [News](https://avimita-amc8313.github.io/avimita_chatterjee/news/) – Updates and announcements on research, events, and milestones
 * [Publications](https://avimita-amc8313.github.io/avimita_chatterjee/publications/) – Peer-reviewed papers, manuscripts, and selected preprints
 * [Talks](https://avimita-amc8313.github.io/avimita_chatterjee/talks/) – Presentations and invited talks at conferences, workshops, and seminars
+* [Media](https://avimita-amc8313.github.io/avimita_chatterjee/media/) - Recordings of interviews, podcasts, and public talks on research, academia, and the PhD journey
 * [Teaching](https://avimita-amc8313.github.io/avimita_chatterjee/teaching/) – Courses and academic mentoring
 
 Research in Quantum Error Correction
