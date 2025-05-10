@@ -12,6 +12,11 @@ redirect_from:
 ### You can view my complete Résumé [here.](https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/view?usp=drive_link)
 <br>
 
+### 📄 View My Full Résumé
+
+<iframe src="https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/preview" width="100%" height="800px" allow="autoplay"></iframe>
+
+
 Education
 ======
 * Ph.D in Computer Science & Engineering, The Pennsylvania State University, 2025 (expected)
