@@ -2,7 +2,7 @@
 title: "Software Flow for Quantum Computing"
 icon: software_flow.png
 collection: publications
-category: manuscripts
+category: conferences
 permalink: #
 excerpt: 'Rapid evolution of quantum circuit technologies, matching with the emergence of promising quantum algorithms has catapulted quantum computers as the most important engineering quest of present times. A key ingredient of quantum engineering is to have an efficient, and scalable design automation flow. To that effect, various programming languages, corresponding compilation tool-chains, and technology-specific optimizations are being developed. In this paper, an overview of the various software flows for quantum computing is presented, including the core technical challenges, cross-flow compatibility issues, demonstrated results, and future research directions. A significant number of point-tools, as part of these various flows, are available as open-source tools. We refer to those tools as well as concerted efforts by industrial and academic research groups to develop a holistic software stack for quantum computing.'
 date: 2025-03-04
