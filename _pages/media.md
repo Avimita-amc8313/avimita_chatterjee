@@ -5,11 +5,13 @@ permalink: /media/
 author_profile: true
 ---
 
+&nbsp;
+
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 30px; box-shadow: 2px 2px 8px rgba(0,0,0,0.05);">
   <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
     <!-- Thumbnail -->
     <a href="https://www.youtube.com/watch?v=OKRcqTDhUn8" target="_blank">
-      <img src="/avimita_chatterjee/images/genesis-thumbnail.png" alt="Genesis of Tomorrow Thumbnail" style="width: 800px; border-radius: 6px;">
+      <img src="/avimita_chatterjee/images/genesis-thumbnail.png" alt="Genesis of Tomorrow Thumbnail" style="width: 1000px; border-radius: 6px;">
     </a>
     <!-- Text -->
     <div style="max-width: 700px;">
