@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-* ## Genesis of Tomorrow Podcast: Research Interview
+* # Genesis of Tomorrow (EP 38): Podcast Interview
+  ## QEC, Noise, Academia, The PhD Journey, Writing Papers, Research, & More
 
 ![Genesis Thumbnail](/avimita_chatterjee/images/genesis-thumbnail.png)
 
