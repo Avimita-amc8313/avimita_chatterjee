@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/preview" width="80%" height="500px" allow="autoplay"></iframe>
-
 👉 📥 [Click here to download the résumé (PDF)](https://drive.google.com/uc?export=download&id=13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo)
+
+<iframe src="https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/preview" width="90%" height="650px" allow="autoplay"></iframe>
+
+
