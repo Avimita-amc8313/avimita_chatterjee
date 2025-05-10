@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "View My Full Résumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,11 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-### You can view my complete Résumé [here.](https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/view?usp=drive_link)
-<br>
-
-### 📄 View My Full Résumé
 
 <iframe src="https://drive.google.com/file/d/13y4a9XNY7AvyEoE_g4pUlBzcGQMD_Fwo/preview" width="100%" height="800px" allow="autoplay"></iframe>
 
