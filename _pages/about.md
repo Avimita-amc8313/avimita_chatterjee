@@ -70,6 +70,6 @@ Get in Touch
 ======
 If you are curious about quantum computing, are considering research in this field, or simply want to connect, I would be happy to hear from you. Whether you are a student, researcher, or an enthusiast, let us work together to make science more open, inclusive, and impactful.
 
-If you are facing challenges in your academic journey, whether related to research, career direction, or personal struggles, I am always open to listening and helping in any way I can. You do not have to go through it alone. I believe in building a community where support and guidance are freely shared. Shoot an email at amc8313[at]psu[dot]edu.
+If you are facing challenges in your academic journey, whether related to research, career direction, or personal struggles, I am always open to listening and helping in any way I can. You do not have to go through it alone. I believe in building a community where support and guidance are freely shared. Feel free to shoot me an email at amc8313[at]psu[dot]edu.
 
 If you’re considering a PhD or are already on that journey, I highly recommend checking out Episode 38 of The Genesis of Tomorrow podcast, where I was invited to share my experience — available on [YouTube](https://www.youtube.com/watch?v=OKRcqTDhUn8&ab_channel=GenesisofTomorrow) and [Spotify](https://open.spotify.com/episode/1VerV8ezzKDT9BHCfkSPJZ?si=XlXsYIvlQ9ScPTIKzCQuQw&nd=1&dlsi=bbcd2f03861e4032).
