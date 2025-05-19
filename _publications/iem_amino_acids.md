@@ -8,7 +8,7 @@ date: 2015-03-12
 venue: 'The 6th IEEE International Conference and Workshop on Computing and Communication'
 slidesurl: #
 paperurl: 'https://ieeexplore.ieee.org/document/7344520'
-bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:oFGk4FJnbrcJ:scholar.google.com/&output=citation&scisdr=ClFwGRsOEIuy7qJ86zo:AFWwaeYAAAAAaBV68zogO33gCIWbxkNB0k_j16I&scisig=AFWwaeYAAAAAaBV6855g-xhcB6eupKhsZNu8kaw&scisf=4&ct=citation&cd=-1&hl=en'
+# bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:oFGk4FJnbrcJ:scholar.google.com/&output=citation&scisdr=ClFwGRsOEIuy7qJ86zo:AFWwaeYAAAAAaBV68zogO33gCIWbxkNB0k_j16I&scisig=AFWwaeYAAAAAaBV6855g-xhcB6eupKhsZNu8kaw&scisf=4&ct=citation&cd=-1&hl=en'
 
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
