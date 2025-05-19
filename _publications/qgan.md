@@ -9,7 +9,7 @@ date: 2024-05-15
 venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/abs/2404.16156'
 citation: #
-bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:Hsb0tOwQ340J:scholar.google.com/&output=citation&scisdr=CgJN25qjEIuy7q_cibw:AAZF9b8AAAAAaBjakbw8C221K3s3Ufxdhr0FhTA&scisig=AAZF9b8AAAAAaBjakUVHHq4q8V_FsWtre0QqsUc&scisf=4&ct=citation&cd=-1&hl=en'
+# bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:Hsb0tOwQ340J:scholar.google.com/&output=citation&scisdr=CgJN25qjEIuy7q_cibw:AAZF9b8AAAAAaBjakbw8C221K3s3Ufxdhr0FhTA&scisig=AAZF9b8AAAAAaBjakUVHHq4q8V_FsWtre0QqsUc&scisf=4&ct=citation&cd=-1&hl=en'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
