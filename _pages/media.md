@@ -19,10 +19,10 @@ author_profile: true
       <p style="font-size: 0.9em; color: gray; margin: 4px 0 10px 0;">📅 May 2025</p>
       <p style="font-weight: bold; margin: 0 0 8px 0;">QEC, Noise, Academia, The PhD Journey, Writing Papers, Research, & More</p>
       <p>The conversation is about Quantum Error Correction, Scientific Writing & Research, the PhD Journey, and much more, hosted by <em>B. Bharadwaj</em>.</p> 
-      <p><strong>Available on:</strong> 
-        <a href="https://www.youtube.com/watch?v=OKRcqTDhUn8" target="_blank">YouTube</a> or 
-        <a href="https://open.spotify.com/episode/1VerV8ezzKDT9BHCfkSPJZ" target="_blank">Spotify</a>
-      </p>
+      <p style="margin-bottom: 0;"><strong>Available on:</strong> 
+      <a href="https://www.youtube.com/watch?v=OKRcqTDhUn8" target="_blank">YouTube</a> or 
+      <a href="https://open.spotify.com/episode/1VerV8ezzKDT9BHCfkSPJZ" target="_blank">Spotify</a>
+    </p>
     </div>
   </div>
 
