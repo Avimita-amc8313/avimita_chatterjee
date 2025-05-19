@@ -9,7 +9,7 @@ date: 2023-10-29
 venue: 'HASP 2023: Proceedings of the 12th International Workshop on Hardware and Architectural Support for Security and Privacy'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3623652.3623664'
 citation: #
-bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:w29z_Tvh4XwJ:scholar.google.com/&output=citation&scisdr=CgJN25qjEIuy7q_TCh0:AAZF9b8AAAAAaBjVEh1FtoKPuLwEVHsQUuZzFbw&scisig=AAZF9b8AAAAAaBjVEga8_6uB4H5x7BOzNmAX9SI&scisf=4&ct=citation&cd=-1&hl=en'
+# bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:w29z_Tvh4XwJ:scholar.google.com/&output=citation&scisdr=CgJN25qjEIuy7q_TCh0:AAZF9b8AAAAAaBjVEh1FtoKPuLwEVHsQUuZzFbw&scisig=AAZF9b8AAAAAaBjVEga8_6uB4H5x7BOzNmAX9SI&scisf=4&ct=citation&cd=-1&hl=en'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
