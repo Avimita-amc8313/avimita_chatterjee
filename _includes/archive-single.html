@@ -26,57 +26,6 @@
       </div>
     {% endif %}
 
-<!--     <h2 class="archive__item-title" itemprop="headline" style="display: flex; align-items: center; gap: 0.75em;">
-      {% if post.icon %}
-        <img src="/avimita_chatterjee/images/publication/{{ post.icon }}"
-             alt="icon"
-             style="height: 8em; width: auto; border-radius: 6px; flex-shrink: 0;">
-      {% endif %}
-      {{ title }}
-    </h2> -->
-
-<!--     <h2 class="archive__item-title pub-header" itemprop="headline" style="display: flex; align-items: center; gap: 0.75em; flex-direction: row;">
-    {% if post.icon %}
-      <img src="/avimita_chatterjee/images/publication/{{ post.icon }}"
-           alt="icon"
-           style="height: 8em; width: auto; border-radius: 6px; flex-shrink: 0;">
-    {% endif %}
-    <span>{{ title }}</span>
-  
-    <style>
-      @media (max-width: 768px) {
-        .pub-header {
-          flex-direction: column !important;
-          align-items: flex-start !important;
-        }
-      }
-    </style>
-  </h2> -->
-
-<!--     <h2 class="archive__item-title pub-header" itemprop="headline" style="display: flex; align-items: center; gap: 0.75em; flex-direction: row;">
-    {% if post.icon %}
-      <img src="/avimita_chatterjee/images/publication/{{ post.icon }}"
-           alt="icon"
-           class="pub-icon"
-           style="height: 8em; width: auto; border-radius: 6px; flex-shrink: 0;">
-    {% endif %}
-    <span>{{ title }}</span>
-  
-    <style>
-      @media (max-width: 768px) {
-        .pub-header {
-          flex-direction: column !important;
-          align-items: center !important;
-          text-align: center;
-        }
-  
-        .pub-header .pub-icon {
-          margin-bottom: 0.5em;
-        }
-      }
-    </style>
-  </h2> -->
-
     <h2 class="archive__item-title pub-header" itemprop="headline" style="display: flex; align-items: flex-start; gap: 0.75em; flex-direction: row;">
     {% if post.icon %}
       <img src="/avimita_chatterjee/images/publication/{{ post.icon }}"
@@ -123,34 +72,6 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
-<!--     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation and post.paperurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">Download Paper</a></p>
-    {% elsif post.citation and post.slidesurl and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl}}">Download Bibtex</a></p>
-    {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.citation and post.bibtexurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
-    {% elsif post.paperurl and post.bibtexurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
-    {% elsif post.slidesurl and post.bibtexurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
-    {% elsif post.bibtexurl %}
-      <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
-    {% endif %} -->
 
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
       <p>Recommended citation: {{ post.citation }}<br />
