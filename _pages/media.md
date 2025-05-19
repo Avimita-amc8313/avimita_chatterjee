@@ -7,7 +7,7 @@ author_profile: true
 
 &nbsp;
 
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 30px; box-shadow: 2px 2px 8px rgba(0,0,0,0.05);">
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.05);">
   <div class="talk-card" style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
     <!-- Thumbnail -->
     <a href="https://www.youtube.com/watch?v=OKRcqTDhUn8" target="_blank">
