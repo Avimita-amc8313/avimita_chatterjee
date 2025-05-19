@@ -53,7 +53,7 @@
     </style>
   </h2> -->
 
-    <h2 class="archive__item-title pub-header" itemprop="headline" style="display: flex; align-items: center; gap: 0.75em; flex-direction: row;">
+<!--     <h2 class="archive__item-title pub-header" itemprop="headline" style="display: flex; align-items: center; gap: 0.75em; flex-direction: row;">
     {% if post.icon %}
       <img src="/avimita_chatterjee/images/publication/{{ post.icon }}"
            alt="icon"
@@ -72,6 +72,35 @@
   
         .pub-header .pub-icon {
           margin-bottom: 0.5em;
+        }
+      }
+    </style>
+  </h2> -->
+
+    <h2 class="archive__item-title pub-header" itemprop="headline" style="display: flex; align-items: flex-start; gap: 0.75em; flex-direction: row;">
+    {% if post.icon %}
+      <img src="/avimita_chatterjee/images/publication/{{ post.icon }}"
+           alt="icon"
+           class="pub-icon"
+           style="height: 8em; width: auto; border-radius: 6px; flex-shrink: 0;">
+    {% endif %}
+    <span class="pub-title">{{ title }}</span>
+  
+    <style>
+      @media (max-width: 768px) {
+        .pub-header {
+          flex-direction: column !important;
+          align-items: flex-start !important;
+        }
+  
+        .pub-header .pub-icon {
+          display: block;
+          margin: 0 auto 0.5em auto;
+        }
+  
+        .pub-title {
+          text-align: left;
+          width: 100%;
         }
       }
     </style>
