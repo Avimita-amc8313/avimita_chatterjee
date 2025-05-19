@@ -10,7 +10,7 @@ venue: 'Springer Nature - Computational Technologies and Electronics. ICCTE 2023
 slidesurl: #
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-81981-0_18'
 citation: #
-bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:Deq348azhqcJ:scholar.google.com/&output=citation&scisdr=CgJN25qjEIuy7qjNTnA:AAZF9b8AAAAAaB_LVnDKBwCClSNlhkHssDpepsc&scisig=AAZF9b8AAAAAaB_LVnmuGVZBOycqE1pwVLlG1p0&scisf=4&ct=citation&cd=-1&hl=en'
+# bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:Deq348azhqcJ:scholar.google.com/&output=citation&scisdr=CgJN25qjEIuy7qjNTnA:AAZF9b8AAAAAaB_LVnDKBwCClSNlhkHssDpepsc&scisig=AAZF9b8AAAAAaB_LVnmuGVZBOycqE1pwVLlG1p0&scisf=4&ct=citation&cd=-1&hl=en'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
