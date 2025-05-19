@@ -11,7 +11,7 @@ author_profile: true
   <div class="talk-card" style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
     <!-- Thumbnail -->
     <a href="https://www.youtube.com/watch?v=OKRcqTDhUn8" target="_blank">
-      <img src="/avimita_chatterjee/images/genesis-thumbnail.png" alt="Genesis of Tomorrow Thumbnail" class="talk-thumbnail" style="width: 1200px; border-radius: 6px;">
+      <img src="/avimita_chatterjee/images/genesis-thumbnail.png" alt="Genesis of Tomorrow Thumbnail" class="talk-thumbnail" style="width: 1100px; border-radius: 6px;">
     </a>
     <!-- Text -->
     <div class="talk-text" style="max-width: 700px;">
