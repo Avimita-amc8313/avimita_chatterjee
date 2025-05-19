@@ -9,7 +9,7 @@ date: 2024-06-12
 venue: 'GLSVLSI 2024: Proceedings of the Great Lakes Symposium on VLSI 2024'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3649476.3658750'
 citation: #
-bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:LT3aHOPu9C0J:scholar.google.com/&output=citation&scisdr=CgJN25qjEIuy7q_eyCE:AAZF9b8AAAAAaBjY0CFWaj2OqpXffkCjY_gtAnY&scisig=AAZF9b8AAAAAaBjY0DFjj6Cusav7k9Ma6bQjZhs&scisf=4&ct=citation&cd=-1&hl=en'
+# bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:LT3aHOPu9C0J:scholar.google.com/&output=citation&scisdr=CgJN25qjEIuy7q_eyCE:AAZF9b8AAAAAaBjY0CFWaj2OqpXffkCjY_gtAnY&scisig=AAZF9b8AAAAAaBjY0DFjj6Cusav7k9Ma6bQjZhs&scisf=4&ct=citation&cd=-1&hl=en'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
