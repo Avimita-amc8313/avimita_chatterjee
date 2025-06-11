@@ -5,9 +5,9 @@ collection: publications
 category: conferences
 permalink: #
 excerpt: 'One of the major challenges in quantum computing is reducing this overhead, especially since QEC codes depend heavily on ancilla qubits for stabilizer measurements. In this work, we propose reducing the number of ancilla qubits by reusing the same ancilla qubits for both X- and Z-type stabilizers. This is achieved by alternating between X and Z stabilizer measurements during each half-round, cutting the number of required ancilla qubits in half. '
-date: 2024-11-23
-venue: 'arXiv Preprint'
-paperurl: 'https://arxiv.org/abs/2411.12813'
+date: 2025-05-30
+venue: '2025 26th International Symposium on Quality Electronic Design (ISQED)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11014328'
 citation: #
 # bibtexurl: 'https://scholar.googleusercontent.com/scholar.bib?q=info:KkhBva6EDJMJ:scholar.google.com/&output=citation&scisdr=CgJN25qjEIuy7q_aG7w:AAZF9b8AAAAAaBjcA7wkUNB9synq-kPi9jLlbC0&scisig=AAZF9b8AAAAAaBjcA7scdvBYfDGUHcvCemNjWgQ&scisf=4&ct=citation&cd=-1&hl=en'
 ---
