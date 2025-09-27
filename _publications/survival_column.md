@@ -2,7 +2,7 @@
 title: "Survival of the Optimized: An Evolutionary Approach to T-depth Reduction"
 icon: survival_column.png
 collection: publications
-category: Preprint Articles
+category: preprint
 permalink: #
 excerpt: 'Quantum circuits must be compiled into the Clifford+T gate set, where the non-transversal nature of the T-gates necessitates costly magic distillation. As circuit complexity grows, so does the T-depth: the sequential T-gate layers, due to the decomposition of arbitrary rotations, further increasing the QEC demands. Optimizing T-depth poses two key challenges: it is NP-hard and existing solutions like greedy or brute-force algorithms are either suboptimal or computationally expensive. We address this by framing the problem as a search task and propose a Genetic Algorithm (GA)-based approach to discover near-optimal T-gate merge patterns across circuit layers. To improve upon convergence and solution quality, we incorporate a mathematical expansion scheme that facilitates reordering layers to identify better merge opportunities, along with a greedy initialization strategy based on T-gate density.'
 date: 2025-04-14
