@@ -12,7 +12,7 @@ author_profile: true
   <div class="talk-card" style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 0px;">
     <!-- Thumbnail -->
     <a href="https://www.globalxpublications.com/avimita-chatterjee-phd-quantum-computing-journey" target="_blank">
-      <img src="/avimita_chatterjee/images/globalx-thumbnail.png" alt="Global Publications Feature Thumbnail" class="talk-thumbnail" style="width: 1100px; border-radius: 6px;">
+      <img src="/avimita_chatterjee/images/globalx-thumbnail.jpg" alt="Global Publications Feature Thumbnail" class="talk-thumbnail" style="width: 1100px; border-radius: 6px;">
     </a>
     <!-- Text -->
     <div class="talk-text" style="max-width: 700px;">
