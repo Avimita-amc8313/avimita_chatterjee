@@ -7,7 +7,11 @@ author_profile: true
 
 Here’s where I share the latest happenings: from research updates and new publications to talks, conferences, and a few fun milestones along the way.
 
+**Sep 2025:**
+ * 📰 Featured in Global Publications for my Ph.D. journey and research in quantum computing.
+
 **Jul 2025:**
+ * 📝 "Survival of the Optimized: An Evolutionary Approach to T - depth Reduction" accepted for publication in IEEE Asia and South Pacific Design Automation Conference (ASP-DAC) 2026
  * 📝 "MITS: A Quantum Sorcerer’s Stone for Designing Surface Codes" gets published in Entropy
 
 **May 2025:**
