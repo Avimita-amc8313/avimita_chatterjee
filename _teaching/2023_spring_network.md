@@ -1,5 +1,5 @@
 ---
-title: "Communication Networks"
+title: "Spring 2023: Communication Networks (CMPEN/EE 362)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: #
