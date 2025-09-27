@@ -1,5 +1,5 @@
 ---
-title: "Summer 2023: Operating System Design and Construction"
+title: "Summer 2023: Operating System Design and Construction (CMPSC 473)"
 collection: teaching
 type: "Lecturer"
 permalink: #
