@@ -82,13 +82,13 @@ author:
 publication_category:
   books:
     title: 'Books'
+  preprint:
+    title: "Recent Preprint Articles"
   manuscripts:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  preprint:
-    title: "Preprint Articles"
-
+  
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
