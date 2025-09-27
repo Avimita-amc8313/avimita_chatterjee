@@ -2,7 +2,7 @@
 title: "The Q-Spellbook: Crafting Surface Code Layouts and Magic State Protocols for Large-Scale Quantum Computing"
 icon: tile_step_opt.png
 collection: publications
-category: conferences
+category: preprint
 permalink: #
 excerpt: 'Surface codes are efficient for Clifford gates but require magic state distillation protocols to process non-Clifford gates, such as T gates, essential for universal quantum computation. In large-scale quantum architectures capable of correcting arbitrary circuits, specialized surface codes for data qubits and distinct codes for magic state distillation are needed. These architectures can be organized into data blocks and distillation blocks. The system works by having distillation blocks produce magic states and data blocks consume them, causing stalls due to either a shortage or excess of magic states. This bottleneck presents an opportunity to optimize quantum space by balancing data and distillation blocks. While prior research offers insights into selecting distillation protocols and estimating qubit requirements, it lacks a tailored optimization approach. We present a framework for optimizing large-scale quantum architectures, focusing on data block layouts and magic state distillation protocols. We evaluate three data block layouts and four distillation protocols under three optimization strategies: minimizing tiles, minimizing steps, and achieving a balanced trade-off.'
 date: 2025-03-11
