@@ -1,5 +1,5 @@
 ---
-title: "Spring 2022: Introductions to Systems Programming"
+title: "Spring 2022: Introductions to Systems Programming (CMPSC 311)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: #
