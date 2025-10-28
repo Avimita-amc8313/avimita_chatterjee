@@ -25,20 +25,13 @@ Quantum Error Correction is one of the most essential yet complex components of 
 Throughout my doctoral work, I have authored numerous research papers, ten of which I led as the first author. These publications form the foundation of my dissertation and represent years of detailed exploration into the practical challenges and opportunities in QEC. In recognition of my work, I was honored with a nomination for the Outstanding Research Assistant Award at Penn State.
 
 
-Industry Experience: Internship at QED-C
+Internship at the QED-C, managed by SRI International
 ======
-During the summer of 2024, I had the opportunity to intern at the Quantum Economic Development Consortium (QED-C), managed by SRI International. My project focused on benchmarking the performance of quantum Hamiltonians, a topic central to understanding and improving quantum simulations.
+During the summer of 2024, I had the opportunity to intern at the Quantum Economic Development Consortium (QED-C), managed by Stanford Research Institute (SRI) International. My project focused on benchmarking the performance of quantum Hamiltonians, a topic central to understanding and improving quantum simulations.
 
 The result of this work was a paper titled “A Comprehensive Cross-Model Framework for Benchmarking the Performance of Quantum Hamiltonian Simulations.” I served as the lead author of this paper, which was accepted for presentation at the American Physical Society (APS) Global Physics Summit 2025 and published in the IEEE Transactions on Quantum Engineering journal. This project not only expanded my research expertise but also marked a significant milestone in my academic career.
 
 You can read more about my internship experience in a featured article on the QED-C blog [here](https://quantumconsortium.org/publication/confusion-clarity-and-quantum-highs-a-summer-at-the-qed-c/?utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8PhycQDLFWXNtbEp4AiRBcgeNSkjhmpyH_tognbDJEwxPOMy-P9j7CxpShx7e591GssGVW).
-
-
-Educational Background and Professional Experience
-======
-I earned my Bachelor of Technology in Computer Science and Engineering from the Institute of Engineering and Management (IEM), Kolkata, affiliated with West Bengal University of Technology (WBUT), in 2018. During my undergraduate studies, I received the Director’s Award for Best Student Contribution in recognition of my academic and extracurricular involvement.
-
-Before beginning my Ph.D. journey, I worked as a Software Developer and Quality Assurance Lead at I2I TeleSolutions and TeleMedicine in Bangalore, India. There, I led the development of a telemedicine application, guided the company through an ISO 9001 certification audit, and was honored with an Award of Appreciation for successfully implementing the Quality Management System.
 
 
 Making Quantum Knowledge Accessible
@@ -55,15 +48,6 @@ Supporting Students and Building Community
 Having gone through the challenges of graduate school myself, I am deeply committed to supporting others on their academic journeys. I believe that pursuing a Ph.D. should not be a solitary experience, and I actively encourage students to reach out with questions, whether academic, emotional, or logistical.
 
 Mentoring new students in my lab has been one of the most fulfilling parts of my experience at Penn State. I work closely with each student to help them navigate the complexities of quantum research, and I aim to create an environment where they feel supported, inspired, and confident in their abilities.
-
-
-Advocacy and Leadership in STEM
-======
-As a woman of color working in the specialized field of quantum computing, I am passionate about increasing diversity and inclusion in science and engineering. I am actively involved in outreach initiatives such as Girls In Quantum, where I contribute to projects and collaborations aimed at promoting diversity in the quantum community.
-
-My commitment to service also includes peer reviewing for leading academic journals such as Nature Partner Journals - Quantum Information, Quantum Information Processing, The Journal of Supercomputing, and IEEE Computer Architecture Letters. I have served on the Technical Program Committee for IEEE Quantum Week in both 2024 and 2025.
-
-I have delivered invited talks at institutions and events including Penn State’s Department of Mathematics, the Silicon Valley Quantum Computing Group, Rensselaer Polytechnic Institute, and the Genesis of Tomorrow Podcast. Through these engagements, I aim to contribute to the scientific community while encouraging more inclusive participation in emerging fields like quantum computing.
 
 
 Get in Touch
