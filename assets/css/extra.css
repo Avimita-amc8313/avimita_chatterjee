@@ -1,18 +1,6 @@
-/* Trim the blank space at the bottom */
-.page__footer {
-  padding-top: 8px !important;
-  padding-bottom: 8px !important;
-  margin-top: 8px !important;
-}
+/* Keep a little space after your content */
+.page__inner-wrap { padding-bottom: 0.75rem !important; }
+.page__content > :last-child { margin-bottom: 0.75rem !important; }
 
-/* Remove extra gap after the last content block */
-.page__content > :last-child { margin-bottom: 0 !important; }
-.page__content p:last-child { margin-bottom: 0 !important; }
-
-/* Safety: remove leftover padding/margin from wrappers */
-.page,
-.initial-content,
-.page__inner-wrap {
-  padding-bottom: 0 !important;
-  margin-bottom: 0 !important;
-}
+/* Slightly slimmer footer, no layout changes */
+.page__footer { padding: 16px 0 !important; margin-top: 12px !important; }
