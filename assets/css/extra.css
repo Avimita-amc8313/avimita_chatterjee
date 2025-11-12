@@ -1,6 +1,10 @@
-/* Keep a little space after your content */
-.page__inner-wrap { padding-bottom: 0.75rem !important; }
-.page__content > :last-child { margin-bottom: 0.75rem !important; }
+/* Keep a little space after your content, not huge */
+.page__content > :last-child { margin-bottom: 0.5rem !important; }
+.page__inner-wrap { padding-bottom: 0.5rem !important; }
 
-/* Slightly slimmer footer, no layout changes */
-.page__footer { padding: 16px 0 !important; margin-top: 12px !important; }
+/* Footer: prevent overlap with the sidebar and keep normal size */
+.page__footer {
+  clear: both !important;      /* <-- this stops the footer from covering the sidebar */
+  padding: 20px 0 !important;  /* normal, not big */
+  margin-top: 12px !important; /* small gap above footer */
+}
