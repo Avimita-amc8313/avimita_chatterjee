@@ -1,54 +1,27 @@
-/* 1) Reduce white space above the footer */
-.page__inner-wrap { padding-bottom: 0.35rem !important; }
-.page__content > :last-child { margin-bottom: 0.35rem !important; }
+/* ——— Tight, consistent space above the footer ——— */
+.page__content > :last-child { margin-bottom: 0.15rem !important; }
+.page__inner-wrap { padding-bottom: 0.15rem !important; }
 
-/* 2) Slimmer, lighter footer with smaller text */
+/* ——— Slim footer, smaller text, proper layout ——— */
 .page__footer {
-  clear: both !important;       /* keep footer below sidebar/content */
-  padding: 8px 0 !important;    /* was 16px -> tighter */
-  margin-top: 6px !important;   /* smaller gap above footer */
-  background: #f2f2f2 !important; /* lighter gray */
+  clear: both !important;       /* prevents overlap with sidebar/content */
+  padding: 6px 0 !important;    /* tighter */
+  margin-top: 6px !important;   /* tiny gap above footer */
+  background: #f2f2f2 !important; 
   font-size: 12px !important;   /* smaller footer font */
-  line-height: 1.2 !important;  /* tighter lines */
+  line-height: 1.2 !important;
 }
 
-/* keep footer content centered with side padding */
 .page__footer .wrapper {
   max-width: 1100px;
   margin: 0 auto !important;
   padding: 0 16px !important;
 }
 
-/* make all footer bits use the smaller size consistently */
-.page__footer h2,
-.page__footer-follow,
-.page__footer a,
-.page__footer .copyright {
-  font-size: 12px !important;
-  margin: 2px 0 !important;
-}
-
-/* REMOVE the stubborn bottom gap above the footer */
-.page__content { 
-  padding-bottom: 0 !important; 
-  margin-bottom: 0 !important; 
-}
-
-/* Ensure the last thing in the content has almost no bottom margin */
-.page__content > *:last-child,
-.page__content p:last-child,
-.page__content ul:last-child,
-.page__content ol:last-child,
-.page__content div:last-child {
-  margin-bottom: 0.15rem !important;   /* tiny breathing room; lower if you want */
-}
-
-/* Trim the wrapper padding a bit more */
-.page__inner-wrap { 
-  padding-bottom: 0.2rem !important;   /* was 0.35–0.75rem; this is small */
-}
-
-/* Leave the footer as you liked it; just a hair less gap above it */
-.page__footer { 
-  margin-top: 4px !important;          /* was 6–12px; small, clean gap */
-}
+/* ——— Optional: only if short pages still show blank window space ——— */
+/*
+html, body { height: 100%; }
+body { min-height: 100vh; display: flex; flex-direction: column; }
+.initial-content { flex: 1 0 auto; }
+.page__footer { flex-shrink: 0; }
+*/
