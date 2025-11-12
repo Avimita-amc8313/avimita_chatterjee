@@ -1,10 +1,29 @@
-/* Keep a little space after your content, not huge */
-.page__content > :last-child { margin-bottom: 0.5rem !important; }
-.page__inner-wrap { padding-bottom: 0.5rem !important; }
+/* 1) Reduce white space above the footer */
+.page__inner-wrap { padding-bottom: 0.35rem !important; }
+.page__content > :last-child { margin-bottom: 0.35rem !important; }
 
-/* Footer: prevent overlap with the sidebar and keep normal size */
+/* 2) Slimmer, lighter footer with smaller text */
 .page__footer {
-  clear: both !important;      /* <-- this stops the footer from covering the sidebar */
-  padding: 20px 0 !important;  /* normal, not big */
-  margin-top: 12px !important; /* small gap above footer */
+  clear: both !important;       /* keep footer below sidebar/content */
+  padding: 8px 0 !important;    /* was 16px -> tighter */
+  margin-top: 6px !important;   /* smaller gap above footer */
+  background: #f2f2f2 !important; /* lighter gray */
+  font-size: 12px !important;   /* smaller footer font */
+  line-height: 1.2 !important;  /* tighter lines */
+}
+
+/* keep footer content centered with side padding */
+.page__footer .wrapper {
+  max-width: 1100px;
+  margin: 0 auto !important;
+  padding: 0 16px !important;
+}
+
+/* make all footer bits use the smaller size consistently */
+.page__footer h2,
+.page__footer-follow,
+.page__footer a,
+.page__footer .copyright {
+  font-size: 12px !important;
+  margin: 2px 0 !important;
 }
