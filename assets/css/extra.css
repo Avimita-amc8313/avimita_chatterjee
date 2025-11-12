@@ -1,0 +1,18 @@
+/* Make the bottom gap smaller */
+.page__footer {
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+  margin-top: 12px !important;
+}
+
+/* Remove extra gap after the last block of content */
+.page__content > :last-child { margin-bottom: 0 !important; }
+.page__content p:last-child { margin-bottom: 0 !important; }
+
+/* Safety: remove leftover padding/margin from wrappers */
+.page,
+.initial-content,
+.page__inner-wrap {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
