@@ -1,20 +1,23 @@
-/* Make footer even tighter */
+/* Keep a small, clean gap above the footer */
+.page__inner-wrap { padding-bottom: 0.75rem !important; }   /* was bigger; not zero */
+.page__content > :last-child { margin-bottom: 0.5rem !important; }  /* gentle breathing room */
+
+/* Slightly slimmer footer, but keep its layout intact */
 .page__footer {
-  padding-top: 6px !important;
-  padding-bottom: 6px !important;
-  margin-top: 6px !important;
-  line-height: 1.2 !important;
-  font-size: 12px !important;   /* smaller text = shorter footer */
+  padding-top: 14px !important;
+  padding-bottom: 14px !important;
+  margin-top: 10px !important;
+  line-height: 1.35 !important;
+  font-size: inherit !important;          /* restore normal size */
 }
 
-/* Remove the extra rows inside the footer */
-.page__footer-follow { display: none !important; }  /* hides “FOLLOW: FEED” row */
-.page__footer h2 { display: none !important; }      /* hides the “Sitemap” heading */
+/* IMPORTANT: remove the aggressive rules that broke layout */
+.page__footer-follow { display: block !important; }  /* show FEED row again (if present) */
+.page__footer h2 { display: block !important; }      /* show “Sitemap” heading again */
 
-/* Nuke leftover spacing inside footer */
-.page__footer > * { margin: 0 !important; padding: 0 !important; }
-.page__footer .copyright { margin: 0 !important; padding: 0 !important; }
+/* Undo earlier nukes so the footer doesn’t stick to the left */
+.page__footer > * { margin: initial !important; padding: initial !important; }
+.page__footer .copyright { margin: initial !important; padding: initial !important; }
 
-/* Safety nets (keep zero at the very bottom) */
-.page__content > :last-child { margin-bottom: 0 !important; }
-.page__inner-wrap, .page, body { padding-bottom: 0 !important; margin-bottom: 0 !important; }
+/* No extra padding at the very bottom of the page */
+.page, .initial-content { padding-bottom: 0 !important; margin-bottom: 0 !important; }
