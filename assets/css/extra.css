@@ -1,8 +1,8 @@
 /* Trim the blank space at the bottom */
 .page__footer {
-  padding-top: 12px !important;
-  padding-bottom: 12px !important;
-  margin-top: 12px !important;
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+  margin-top: 8px !important;
 }
 
 /* Remove extra gap after the last content block */
