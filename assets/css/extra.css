@@ -1,12 +1,13 @@
-/* ——— Tight, consistent space above the footer ——— */
-.page__content > :last-child { margin-bottom: 0.15rem !important; }
-.page__inner-wrap { padding-bottom: 0.15rem !important; }
+/* Tight, consistent space above the footer — remove extra gap */
+.page__content > :last-child { margin-bottom: 0 !important; }
+.page__inner-wrap { padding-bottom: 0 !important; }
+.page__content { padding-bottom: 0 !important; }
 
-/* ——— Slim footer, smaller text, proper layout ——— */
+/* Slim footer, smaller text, proper layout (footer itself stays neat) */
 .page__footer {
   clear: both !important;       /* prevents overlap with sidebar/content */
   padding: 6px 0 !important;    /* tighter */
-  margin-top: 6px !important;   /* tiny gap above footer */
+  margin-top: 2px !important;   /* tiny gap above footer */
   background: #f2f2f2 !important; 
   font-size: 12px !important;   /* smaller footer font */
   line-height: 1.2 !important;
@@ -17,11 +18,3 @@
   margin: 0 auto !important;
   padding: 0 16px !important;
 }
-
-/* ——— Optional: only if short pages still show blank window space ——— */
-/*
-html, body { height: 100%; }
-body { min-height: 100vh; display: flex; flex-direction: column; }
-.initial-content { flex: 1 0 auto; }
-.page__footer { flex-shrink: 0; }
-*/
