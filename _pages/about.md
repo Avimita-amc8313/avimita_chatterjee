@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Avimita Chatterjee, and I recently completed my Ph.D. in Computer Science and Engineering at The Pennsylvania State University. My doctoral research focused on Quantum Computing, with a particular emphasis on Quantum Error Correction (QEC). Under the guidance of Professor Swaroop Ghosh, my dissertation, titled _“Spatiotemporal Optimization and Analysis of Resource Utilization in Quantum Error Correction”_,explored strategies for building more resilient and scalable quantum systems. [View Dissertation Defense Slides (PPTX)(https://1drv.ms/p/c/e59828bc6d482817/ETATHflx3DhFhr3WtHE5Q4UBqhOro693ra82kqJtCdotAQ?e=ipIERd)]
+My name is Avimita Chatterjee, and I recently completed my Ph.D. in Computer Science and Engineering at The Pennsylvania State University. My doctoral research focused on Quantum Computing, with a particular emphasis on Quantum Error Correction (QEC). Under the guidance of Professor Swaroop Ghosh, my dissertation, titled _“Spatiotemporal Optimization and Analysis of Resource Utilization in Quantum Error Correction”_,explored strategies for building more resilient and scalable quantum systems. [View Dissertation Defense Slides (PPTX)](https://1drv.ms/p/c/e59828bc6d482817/ETATHflx3DhFhr3WtHE5Q4UBqhOro693ra82kqJtCdotAQ?e=gRr2cH).
 
 My journey into QEC began with a deep curiosity about quantum technologies and a strong desire to make their potential accessible to more people. As a computer scientist entering a field traditionally dominated by physics and mathematics, I quickly realized the value of diverse perspectives. My goal is to break down the barriers around Quantum Computing and make it more approachable for researchers from a variety of backgrounds.
 
