@@ -27,3 +27,28 @@
   font-size: 12px !important;
   margin: 2px 0 !important;
 }
+
+/* REMOVE the stubborn bottom gap above the footer */
+.page__content { 
+  padding-bottom: 0 !important; 
+  margin-bottom: 0 !important; 
+}
+
+/* Ensure the last thing in the content has almost no bottom margin */
+.page__content > *:last-child,
+.page__content p:last-child,
+.page__content ul:last-child,
+.page__content ol:last-child,
+.page__content div:last-child {
+  margin-bottom: 0.15rem !important;   /* tiny breathing room; lower if you want */
+}
+
+/* Trim the wrapper padding a bit more */
+.page__inner-wrap { 
+  padding-bottom: 0.2rem !important;   /* was 0.35–0.75rem; this is small */
+}
+
+/* Leave the footer as you liked it; just a hair less gap above it */
+.page__footer { 
+  margin-top: 4px !important;          /* was 6–12px; small, clean gap */
+}
