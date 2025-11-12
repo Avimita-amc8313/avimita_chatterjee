@@ -1,26 +1,18 @@
-/* 1) Gentle space after your content (not huge, not zero) */
-.page__inner-wrap { padding-bottom: 0.5rem !important; }
-.page__content > :last-child { margin-bottom: 0.5rem !important; }
-
-/* 2) Slimmer footer, but keep the default layout/centering */
+/* Trim the blank space at the bottom */
 .page__footer {
-  padding: 10px 0 !important;   /* top/bottom padding only */
-  margin-top: 8px !important;   /* small gap above footer */
-  line-height: 1.35 !important;
-  font-size: inherit !important;
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+  margin-top: 12px !important;
 }
 
-/* Minimal Mistakes uses a .wrapper to center footer content. Force it to center. */
-.page__footer .wrapper {
-  max-width: 1200px;            /* typical site width */
-  margin: 0 auto !important;    /* center horizontally */
-  padding: 0 24px !important;   /* restore side padding so text isn’t glued to the edge */
-}
+/* Remove extra gap after the last content block */
+.page__content > :last-child { margin-bottom: 0 !important; }
+.page__content p:last-child { margin-bottom: 0 !important; }
 
-/* 3) Tidy footer row spacing (not too tall) */
-.page__footer-follow,
-.page__footer .copyright {
-  margin: 0.25rem 0 !important;
+/* Safety: remove leftover padding/margin from wrappers */
+.page,
+.initial-content,
+.page__inner-wrap {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
 }
-
-/* 4) No extreme resets anywhere else */
