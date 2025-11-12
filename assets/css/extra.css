@@ -1,23 +1,26 @@
-/* Keep a small, clean gap above the footer */
-.page__inner-wrap { padding-bottom: 0.75rem !important; }   /* was bigger; not zero */
-.page__content > :last-child { margin-bottom: 0.5rem !important; }  /* gentle breathing room */
+/* 1) Gentle space after your content (not huge, not zero) */
+.page__inner-wrap { padding-bottom: 0.5rem !important; }
+.page__content > :last-child { margin-bottom: 0.5rem !important; }
 
-/* Slightly slimmer footer, but keep its layout intact */
+/* 2) Slimmer footer, but keep the default layout/centering */
 .page__footer {
-  padding-top: 14px !important;
-  padding-bottom: 14px !important;
-  margin-top: 10px !important;
+  padding: 10px 0 !important;   /* top/bottom padding only */
+  margin-top: 8px !important;   /* small gap above footer */
   line-height: 1.35 !important;
-  font-size: inherit !important;          /* restore normal size */
+  font-size: inherit !important;
 }
 
-/* IMPORTANT: remove the aggressive rules that broke layout */
-.page__footer-follow { display: block !important; }  /* show FEED row again (if present) */
-.page__footer h2 { display: block !important; }      /* show “Sitemap” heading again */
+/* Minimal Mistakes uses a .wrapper to center footer content. Force it to center. */
+.page__footer .wrapper {
+  max-width: 1200px;            /* typical site width */
+  margin: 0 auto !important;    /* center horizontally */
+  padding: 0 24px !important;   /* restore side padding so text isn’t glued to the edge */
+}
 
-/* Undo earlier nukes so the footer doesn’t stick to the left */
-.page__footer > * { margin: initial !important; padding: initial !important; }
-.page__footer .copyright { margin: initial !important; padding: initial !important; }
+/* 3) Tidy footer row spacing (not too tall) */
+.page__footer-follow,
+.page__footer .copyright {
+  margin: 0.25rem 0 !important;
+}
 
-/* No extra padding at the very bottom of the page */
-.page, .initial-content { padding-bottom: 0 !important; margin-bottom: 0 !important; }
+/* 4) No extreme resets anywhere else */
