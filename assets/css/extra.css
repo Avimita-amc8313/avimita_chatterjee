@@ -1,32 +1,35 @@
-/* ——— kill the stubborn gap above the footer ——— */
-
-/* zero any bottom padding/margin on the main content wrappers */
-.page__content { padding-bottom: 0 !important; margin-bottom: 0 !important; }
-.page__inner-wrap { padding-bottom: 0 !important; margin-bottom: 0 !important; }
-
-/* make the last element of the page content not add space */
-.page__content > *:last-child,
-.page__content p:last-child,
-.page__content ul:last-child,
-.page__content ol:last-child,
-.page__content div:last-child,
-.page__content section:last-child,
-.page__content article:last-child { margin-bottom: 0 !important; padding-bottom: 0 !important; }
-
-/* some Minimal Mistakes pages add spacing via the outer container */
-.initial-content { padding-bottom: 0 !important; margin-bottom: 0 !important; }
-
-/* keep a tiny, consistent gap solely via the footer */
-.page__footer {
-  clear: both !important;            /* never overlap */
-  margin-top: 2px !important;        /* tiny gap (adjust to 1px if you want less) */
-  padding: 6px 0 !important;         /* your tighter footer */
-  background: #f2f2f2 !important;    /* your lighter gray */
-  font-size: 12px !important;        /* your smaller text */
-  line-height: 1.2 !important;
+/* Kill any bottom padding/margin from common wrappers */
+#main,
+.initial-content,
+.page__inner-wrap,
+.page__content {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
 }
 
-/* footer content centered with side padding */
+/* The last thing in the content should not add space */
+.page__content > *:last-child { margin-bottom: 0 !important; }
+
+/* Keep your footer small, centered, and visible */
+.page__footer {
+  clear: both !important;
+  padding: 6px 0 !important;
+  background: #f2f2f2 !important;
+  font-size: 12px !important;
+  line-height: 1.2 !important;
+
+  /* BRUTE FORCE: pull the footer up to remove any leftover gap */
+  margin-top: -10px !important;         /* tweak this value */
+}
+
+/* Add a tiny breathing band so text is not glued to the footer */
+.page__footer::before {
+  content: "";
+  display: block;
+  height: 4px;                          /* tweak this too */
+}
+
+/* Center footer contents */
 .page__footer .wrapper {
   max-width: 1100px;
   margin: 0 auto !important;
