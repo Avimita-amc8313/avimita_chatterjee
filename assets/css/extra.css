@@ -1,20 +1,26 @@
-/* Tight, consistent space above the footer — remove extra gap */
-.page__content > :last-child { margin-bottom: 0 !important; }
-.page__inner-wrap { padding-bottom: 0 !important; }
-.page__content { padding-bottom: 0 !important; }
-
-/* Slim footer, smaller text, proper layout (footer itself stays neat) */
+/* keep footer compact and centered */
 .page__footer {
-  clear: both !important;       /* prevents overlap with sidebar/content */
-  padding: 6px 0 !important;    /* tighter */
-  margin-top: 2px !important;   /* tiny gap above footer */
-  background: #f2f2f2 !important; 
-  font-size: 12px !important;   /* smaller footer font */
+  clear: both !important;
+  padding: 8px 0 !important;
+  margin-top: 6px !important;
+  background: #f2f2f2 !important;
+  font-size: 12px !important;
   line-height: 1.2 !important;
 }
+.page__footer .wrapper { max-width: 1100px; margin: 0 auto !important; padding: 0 16px !important; }
 
-.page__footer .wrapper {
-  max-width: 1100px;
-  margin: 0 auto !important;
-  padding: 0 16px !important;
-}
+/* tiny breathing room after main content */
+.page__content > :last-child { margin-bottom: 0.25rem !important; }
+.page__inner-wrap { padding-bottom: 0.25rem !important; }
+
+/* —— reduce sidebar height so the right column isn’t left with a big blank band —— */
+.page__sidebar { padding-bottom: 0 !important; margin-bottom: 0 !important; }
+.author__avatar { width: 140px !important; margin-bottom: 8px !important; } /* shrink photo a bit */
+.author__bio { margin-bottom: 6px !important; }
+.author__urls-wrapper { margin-top: 6px !important; }
+.author__urls { margin: 0 !important; padding: 0 !important; }
+.author__urls li { margin: 0 0 2px 0 !important; line-height: 1.2 !important; }
+.author__urls a { font-size: 14px !important; }
+
+/* safety: no hidden padding at the very bottom of wrappers */
+#main, .initial-content { padding-bottom: 0 !important; margin-bottom: 0 !important; }
