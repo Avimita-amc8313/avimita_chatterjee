@@ -7,6 +7,9 @@ author_profile: true
 
 Here’s where I share the latest happenings: from research updates and new publications to talks, conferences, and a few fun milestones along the way.
 
+**Jan 2026:**
+  * 💼 Joined as a Visiting Assistant Professor in the Computer Science department at the University of West Florida
+    
 **Nov 2025:**
   * 🎓 Successfully defended my Ph.D. dissertation, _“Spatiotemporal Optimization and Analysis of Resource Utilization in Quantum Error Correction”_, at Penn State. [View Dissertation Defense Slides (PPTX)](https://1drv.ms/p/c/e59828bc6d482817/ETATHflx3DhFhr3WtHE5Q4UBqhOro693ra82kqJtCdotAQ?e=nyzFik).
 
