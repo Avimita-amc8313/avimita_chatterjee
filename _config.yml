@@ -29,7 +29,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Quantum Error Correction, Quantum Benchmarking and Quantum Algorithms & Applications"
   location         : "Pennsyvania, USA"
-  employer         : "The Pennsylvania State University"
+  employer         : "University of West Florida"
   university       : "The Pennsylvania State University"
   uri              : # URL
   email            : "amc8313@psu.edu" 
@@ -228,9 +228,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
